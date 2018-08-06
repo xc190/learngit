@@ -1,1 +1,1 @@
-branch2 log1 
+branch2 log2
